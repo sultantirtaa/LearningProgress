@@ -22,3 +22,6 @@ Belajar Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
   * Dasar Git
   * Studi Kasus Pengalaman Belajar
   * Git Branches
+  * Kolaborasi dengan Tim
+  * Studi Kasus Kolaborasi dengan Tim
+  * Github sebagai Portofolio
