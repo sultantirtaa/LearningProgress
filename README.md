@@ -16,8 +16,7 @@ Belajar Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
  * Modifikasi Perangkat Lunak.
  * Dokumentasi Pemrograman dan Pengembangan Aplikasi dan Perangkat Lunak.
  
- **21 Februari 2023**  
- Belajar Dasar Git dengan Github
+ **21 Februari 2023**  Belajar Dasar Git dengan Github
   * Git dan Github
   * Dasar Git
   * Studi Kasus Pengalaman Belajar
