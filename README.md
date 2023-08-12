@@ -25,3 +25,7 @@ Belajar Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
   * Kolaborasi dengan Tim
   * Studi Kasus Kolaborasi dengan Tim
   * Github sebagai Portofolio
+
+**12 Agustus 2023**
+Belajar Dasar Pemrograman Web
+* Pengantar HTML
